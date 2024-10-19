@@ -1,0 +1,10 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		DisableChat: {
+			Label: Desativar Chat
+			Tooltip: "Desativa o chat de ficar mostrando quando não está aberto"
+		}
+	}
+}

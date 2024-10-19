@@ -4,4 +4,4 @@ No problem, we have a solution
 This mod disables the chat from showing when it is not open.
 You can also configure it in-game if you want to reactivate it.
 
-Tip: If you change the setting in-game you need to send a message to the game to change the chat
+[b]Tip:[/b] If you change the setting in-game you need to send a message to the game to change the chat

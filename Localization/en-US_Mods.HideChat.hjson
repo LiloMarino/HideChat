@@ -4,7 +4,7 @@ Configs: {
 
 		DisableChat: {
 			Label: Disable Chat
-			Tooltip: ""
+			Tooltip: "Disables chat from showing when not open"
 		}
 	}
 }
