@@ -1,1 +1,10 @@
+Configs: {
+	Config: {
+		DisplayName: Config
 
+		DisableChat: {
+			Label: Disable Chat
+			Tooltip: ""
+		}
+	}
+}
